@@ -1,2 +1,2 @@
 # Freeway Clone
-Clone simples do jogo Freeway que fiz utilizando a livraria p5.js
+Simple Freeway game clone, made with p5.js lib
